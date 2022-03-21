@@ -1,0 +1,13 @@
+body{
+    font-family: 'PT Serif', serif
+}
+.navbar{
+    background-color: rgb(72, 151, 204);
+}
+.nav-item{
+    font-weight: 400px;
+}
+#image{
+    height: 400px;
+    width: 100%;
+}
